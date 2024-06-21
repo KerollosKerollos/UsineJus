@@ -1,0 +1,5 @@
+FOLDER,C:\Users\kiros\Desktop\POO\MAUI\usineJusFruit\usineJusFruit\usineJusFruit\Configuration\Datas\
+TICKETS,Tickets.csv
+FACTURES,Factures.csv
+PRODUCTS,Products.csv
+RESERVATIONS,Reservations.csv

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Brasse.Model.Restaurant.People.Person" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAECEEECACAAAACQAAFAAAAAAAAAAAAAEAAAAgAACEk=</HashCode>
+      <FileName>Model\Restaurant\People\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.People.Customer" Collapsed="true">
+    <Position X="2.25" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\People\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.People.Manager" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAoAAAAEQIAAAAAIACEIACAAAUKIAAACA=</HashCode>
+      <FileName>Model\Restaurant\People\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.People.StaffMember" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAABAAAAAAAAAAAIAAAAAEAAACAAAAAkQAoAA=</HashCode>
+      <FileName>Model\Restaurant\People\StaffMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Item" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>IAQCLAgAABAgABAEAABAAAQABCAAAIAEAAAAIAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Drink" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAgAIAAACAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Drink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Dish" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Dish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Soft" Collapsed="true">
+    <Position X="4" Y="3" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Soft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Alcohol" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAABAACAAAIAAAAAAAAAgAAAAAAAgAIAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Alcohol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Beer" Collapsed="true">
+    <Position X="6" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAgAAAAAACAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Beer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brasse.Model.Restaurant.Catering.Aperitif" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Restaurant\Catering\Aperitif.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

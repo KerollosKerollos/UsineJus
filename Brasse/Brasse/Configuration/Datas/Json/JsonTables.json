@@ -1,0 +1,83 @@
+{
+  "$type": "Brasse.Model.Restaurant.Design.TablesCollection, Brasse",
+  "$values": [
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 1,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 2,
+      "SeatsNumber": 4
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 3,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 4,
+      "SeatsNumber": 6
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 5,
+      "SeatsNumber": 4
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 6,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 7,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 8,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 9,
+      "SeatsNumber": 4
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 10,
+      "SeatsNumber": 4
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 11,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 12,
+      "SeatsNumber": 6
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 13,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 14,
+      "SeatsNumber": 2
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.Design.Table, Brasse",
+      "IdNumber": 15,
+      "SeatsNumber": 4
+    }
+  ]
+}
+
+
+    

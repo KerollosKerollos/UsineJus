@@ -1,0 +1,21 @@
+Client;Date;DeliveryEffectifDate;ProductId;ProductDateCueillette;ProductVariety;ProductQuantity;ProductFruit;ConditioningName;ConditioningVolume;ConditioningUnitPrice
+Client1;01-06-23;10-06-23;1000;01-05-23;Golden;10;Pomme;Box;50.0;5.0
+Client2;02-06-23;11-06-23;1001;02-05-23;Cavendish;20;Banane;Bag;45.0;4.5
+Client3;03-06-23;12-06-23;1002;03-05-23;Navel;15;Orange;Crate;60.0;6.0
+Client4;04-06-23;13-06-23;1003;04-05-23;Granny Smith;12;Pomme;Box;55.0;5.5
+Client5;05-06-23;14-06-23;1004;05-05-23;Red Delicious;18;Pomme;Bag;65.0;6.5
+Client6;06-06-23;15-06-23;1005;06-05-23;Plantain;22;Banane;Crate;70.0;7.0
+Client7;07-06-23;16-06-23;1006;07-05-23;Valencia;14;Orange;Box;52.0;5.2
+Client8;08-06-23;17-06-23;1007;08-05-23;Braeburn;16;Pomme;Bag;48.0;4.8
+Client9;09-06-23;18-06-23;1008;09-05-23;Lady Finger;25;Banane;Crate;75.0;7.5
+Client10;10-06-23;19-06-23;1009;10-05-23;Cara Cara;13;Orange;Box;50.0;5.0
+Client11;11-06-23;20-06-23;1010;11-05-23;Fuji;17;Pomme;Bag;60.0;6.0
+Client12;12-06-23;21-06-23;1011;12-05-23;Manzano;20;Banane;Crate;65.0;6.5
+Client13;13-06-23;22-06-23;1012;13-05-23;Moro;12;Orange;Box;55.0;5.5
+Client14;14-06-23;23-06-23;1013;14-05-23;Honeycrisp;22;Pomme;Bag;70.0;7.0
+Client15;15-06-23;24-06-23;1014;15-05-23;Burro;19;Banane;Crate;68.0;6.8
+Client16;16-06-23;25-06-23;1015;16-05-23;Blood;11;Orange;Box;57.0;5.7
+Client17;17-06-23;26-06-23;1016;17-05-23;Jazz;18;Pomme;Bag;62.0;6.2
+Client18;18-06-23;27-06-23;1017;18-05-23;Red;23;Banane;Crate;72.0;7.2
+Client19;19-06-23;28-06-23;1018;19-05-23;Seville;14;Orange;Box;53.0;5.3
+Client20;20-06-23;29-06-23;1019;20-05-23;Gala;21;Pomme;Bag;66.0;6.6

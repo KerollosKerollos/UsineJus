@@ -1,0 +1,35 @@
+{
+  "$type": "Brasse.Model.Restaurant.People.CustomersCollection, Brasse",
+  "$values": [
+    {
+      "$type": "Brasse.Model.Restaurant.People.Customer, Brasse",
+      "Type": 0,
+      "Id": 1,
+      "LastName": "Beumier",
+      "FirstName": "Damien",
+      "Gender": true,
+      "Email": "beumierdamien@gmail.com",
+      "MobilePhoneNumber": null
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.People.Customer, Brasse",
+      "Type": 0,
+      "Id": 2,
+      "LastName": null,
+      "FirstName": "Sophie",
+      "Gender": false,
+      "Email": "deroisinsophie@gmail.com",
+      "MobilePhoneNumber": null
+    },
+    {
+      "$type": "Brasse.Model.Restaurant.People.Customer, Brasse",
+      "Type": 0,
+      "Id": 3,
+      "LastName": "Darmani",
+      "FirstName": "Izaak",
+      "Gender": true,
+      "Email": "darmani2345@gmail.com",
+      "MobilePhoneNumber": null
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="usineJusFruit.View.MainPage">
+
+
+
+    <ScrollView>
+        <VerticalStackLayout Grid.Column="2" Grid.Row="0">
+            
+               
+            <Label 
+                     Text="Nom :"
+                     VerticalOptions="Center" 
+                     HorizontalOptions="Start"  
+                />
+            <Entry 
+                    Text="{Binding ProductSelection.Id}" 
+                    FontAttributes ="Bold" 
+                    HorizontalOptions="Start"
+                    WidthRequest="250"
+                 />
+            <Label 
+                     Text="Prénom :"
+                     VerticalOptions="Center" 
+                     HorizontalOptions="Start" 
+                />
+            <Entry 
+                    Text="{Binding ProductSelection.DateCueillette}" 
+                    FontAttributes ="Bold" 
+                    HorizontalOptions="Start"
+                    WidthRequest="250"
+                 />
+            <Label 
+                     Text="Mobile :"
+                     VerticalOptions="Center" 
+                     HorizontalOptions="Start" 
+                />
+            <Entry 
+                    Text="{Binding ProductSelection.Variety}" 
+                    FontAttributes ="Bold" 
+                    HorizontalOptions="Start"
+                    WidthRequest="250"
+                 />
+            <Label 
+                      Text="Email :"
+                      VerticalOptions="Center" 
+                      HorizontalOptions="Start" 
+                />
+            <Entry 
+                      Text="{Binding ProductSelection.Quantity}" 
+                      FontAttributes ="Bold" 
+                      HorizontalOptions="Start"
+                      WidthRequest="250"
+                 />
+            <Label 
+                      Text="Sexe Masc :"
+                      VerticalOptions="Center" 
+                      HorizontalOptions="Start" 
+                 />
+             
+                
+            <Entry 
+                    Text="{Binding ProductSelection.Fruit}" 
+                    FontAttributes ="Bold" 
+                    HorizontalOptions="Start"
+                    WidthRequest="250"
+                 />
+            
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

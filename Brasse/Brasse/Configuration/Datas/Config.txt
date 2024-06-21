@@ -1,0 +1,5 @@
+FOLDER,C:\Users\kiros\Desktop\POO\MAUI\Brasse\Brasse\Configuration\Datas\Json\
+ITEMS,Items.json
+TABLES,Tables.json
+CUSTOMERS,Customers.json
+STAFFMEMBERS,StaffMembers.json

@@ -1,0 +1,38 @@
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Packages
+*.nupkg
+*.snupkg
+
+# User-specific files
+*.rsuser
+*.user
+*.userosscache
+*.suo
+*.swp
+*.bak
+*.db
+*.opendb
+*.sav
+*.aps

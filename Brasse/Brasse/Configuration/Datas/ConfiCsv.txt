@@ -1,0 +1,4 @@
+FOLDER,C:\Users\kiros\Desktop\POO\MAUI\Brasse\Brasse\Configuration\Datas\Csv\
+ITEMS,Items.csv
+TABLES,Tables.csv
+PEOPLE,Persons.csv
